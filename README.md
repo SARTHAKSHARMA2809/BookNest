@@ -35,5 +35,7 @@ The page reloads automatically when you make changes, and lint errors appear in 
 - **Pagination**
 
 ---
+<img width="1920" height="1080" alt="Screenshot 2025-08-07 180953" src="https://github.com/user-attachments/assets/8ab7f8e8-bf89-483f-945c-30908103a68d" />
+
 
 Feel free to explore and contribute!
