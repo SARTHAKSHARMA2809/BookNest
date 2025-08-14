@@ -21,7 +21,7 @@ The page reloads automatically when you make changes, and lint errors appear in 
 ---
 
 ## Features
-
+- **Chatbot:** Personalized book recommendations(IBM Watson Assistant) through an interactive chatbot.  
 - **User Authentication:** Signup, Login, Logout  
 - **Landing Page:** Categories & New Arrivals  
 - **Product Listing:** Sort & filter by price, rating, genre, stock, delivery  
