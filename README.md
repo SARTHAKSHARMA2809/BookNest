@@ -14,7 +14,7 @@ The page reloads automatically when you make changes, and lint errors appear in 
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript  
+- IBM Watson Assistant
 - React (Frontend)  
 - Node.js, Express.js, MongoDB (Backend, deployed on Vercel)  
 
